@@ -1,6 +1,6 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://ilinayozova.github.io"
 languageCode: "en-us"
-title: "Hugo-profile"
+title: "Ilina Yozova"
 theme: "./.."
 relativeURLs: true
 
@@ -49,21 +49,20 @@ params:
   version: 3
   customCSS: false
 
-  favicon: "/images/fav.png"
-  description: "A high performance hugo theme for personal portfolio and blog."
+  favicon: "/images/Y (2).png"
+  description: "Ilina Yozova - personal webpage"
 
   # home
   disable_home: false
-  profile_image: "/images/profile.png"
-  name: "Example name"
-  namecolor: ffc107
+  profile_image: "/images/pic11.png"
+  name: "Ilina Yozova"
+  namecolor: 6c4676
   profession: "Profession"
-  github: "https://github.com"
-  gitlab: "https://gitlab.com"
-  linkedin: "https://linkedin.com"
-  twitter: "https://twitter.com/"
-  instagram: "https://instagram.com/"
-  facebook: "https://facebook.com"
+  github: "https://github.com/ilinayozova/"
+  linkedin: "https://www.linkedin.com/in/ilina-yozova-38b6ba169/"
+  twitter: "https://twitter.com/iyozova/"
+  # instagram: "https://instagram.com/"
+  profession: "PhD Student"
 
   #Custom social links
   # customSocialLinks:
@@ -74,7 +73,7 @@ params:
   
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Profile, a passionate web developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+  descripe_l1_person: "Hi, I'm Ilina, a PhD student at University College London (UCL). I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
   descripe_l2_person: "This is a example template for about section. You can find my works [here](#projects)"
   skills:
     - name: CSS
