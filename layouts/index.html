@@ -92,9 +92,9 @@
     {{- partial "sections/v3/experience.html" . -}}
     {{ end }}
 
-    {{ if .Site.Params.disable_education }}
+    {{ if .Site.Params.disable_teaching }}
     {{ else }}
-    {{- partial "sections/v3/education.html" . -}}
+    {{- partial "sections/v3/teaching.html" . -}}
     {{ end }}
 
     {{ if .Site.Params.disable_projects }}
@@ -155,7 +155,7 @@
       $(".fa-moon").toggleClass("d-none");
       $(".fa-sun").toggleClass("d-none");
       $(".about-backdark").toggleClass("about-back");
-      $(".education-backdark").toggleClass("education-back");
+      $(".teaching-backdark").toggleClass("teaching-back");
       $(".achievements-backdark").toggleClass("achievements-back");
       $("nav").toggleClass("navbar-dark");
       $("nav").toggleClass("navbar-light");
