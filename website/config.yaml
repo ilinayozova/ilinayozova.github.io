@@ -88,49 +88,46 @@ params:
   # Experience
   disable_experience: false
   experience:
-    - company: "Google"
+    - company: "PhD Statistical Science"
       # id: "google-developer"   // use this, when you want to change the id(used for navigation)
-      role: "Software developer"
-      startdate: Feb 2021
+      role: "University College London"
+      startdate: September 2021 
       enddate: present
       featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
-    - company: "Facebook"
+        - point: Info 1
+        - point: Info 2
+    - company: "BSc Statistics"
       # id: "facebook-developer" // use this, when you want to change the id(used for navigation)
-      role: "Fullstack developer"
-      startdate: Mar 2020
-      enddate: Dec 2020
+      role: "University College London"
+      startdate: Septemver 2018
+      enddate: June 2021
       featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
-    - company: "Amazon"
+        - point: Info 1
+        - point: Info 2
+    - company: "High School - Mathematics and Computer Science"
       # id: "amazon-developer" // use this, when you want to change the id(used for navigation)
-      role: "Fullstack developer"
-      startdate: Feb 2019
-      enddate: Jan 2020
+      role: "American College London"
+      startdate: September 2015
+      enddate: June 2018
       featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
+        - point: Info 1
+        - point: Info 2
 
   # Teaching
   disable_teaching: false
   teaching:
-    - degree: "B.tech"
-      branch: "Information Technology"
-      university: "Example university"
-      startedyear: "2013"
-      graduation: "2018"
-    - degree: "Degree"
-      branch: "Branch"
-      university: "Example university"
-      startedyear: "year"
-      graduation: "year"
-    - degree: "Degree"
-      branch: "Branch"
-      university: "Example university"
-      startedyear: "year"
-      graduation: "year"
+    - degree: "STAT0006"
+      branch: "Linear Models and the Analysis of Variance"
+      university: "UCL"
+      startedyear: "Academic Year 2021-2022"
+    - degree: "STAT0007"
+      branch: "Introduction to Applied Probability"
+      university: "UCL"
+      startedyear: "Academic Year 2021-2022"
+    - degree: "STAT00023"
+      branch: "Computing for Practical Statistics"
+      university: "UCL"
+      startedyear: "Academic Year 2021-2022"
 
   # Projects
   disable_projects: false
