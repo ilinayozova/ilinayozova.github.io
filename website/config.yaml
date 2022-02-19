@@ -100,7 +100,7 @@ params:
       enddate: June 2021
       featuredpoints:
         - point: First-Class Honours
-        - point: Undergraduate Project title: Tree-based methods in causal inference
+        - point: Undergraduate Project title
     - company: "High School"
       # id: "amazon-developer" // use this, when you want to change the id(used for navigation)
       role: "Mathematics and Computer Science, American College London"
