@@ -49,7 +49,7 @@ params:
   version: 3
   customCSS: false
 
-  favicon: "/images/Y (2).png"
+  favicon: "Y (2).png"
   description: "Ilina Yozova - personal webpage"
 
   # home
