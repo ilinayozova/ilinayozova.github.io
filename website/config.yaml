@@ -113,9 +113,9 @@ params:
         - point: Lead backend developer for a product.
         - point: Created a frontend design for a product.
 
-  # Education
-  disable_education: false
-  education:
+  # Teaching
+  disable_teaching: false
+  teaching:
     - degree: "B.tech"
       branch: "Information Technology"
       university: "Example university"
