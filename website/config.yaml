@@ -107,7 +107,7 @@ params:
       startdate: September 2015
       enddate: June 2018
       featuredpoints:
-        - point: Diploma of Completed Secondary Education: 5.98/6.00
+        - point: Diploma of Completed Secondary Education
 
   # Teaching
   disable_teaching: false
