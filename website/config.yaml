@@ -73,7 +73,7 @@ params:
   
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Ilina, a PhD student at University College London (UCL) (started in September 2021). My research focuses on Bayesian nonparametric methods for causal inference. My first supervisor is Dr. Ioanna Manolopoulou and my second supervisor is François-Xavier Briol."
+  descripe_l1_person: "Hi, I'm Ilina, a PhD student at University College London (UCL) (started in September 2021). My research focuses on Bayesian nonparametric methods for causal inference. My first supervisor is Dr. Ioanna Manolopoulou and my second supervisor is Dr. François-Xavier Briol."
   descripe_l2_person: "I am also a Postgraduate Teaching Assistant at UCL tutoring mainly second and third year courses (please see Teaching Section)."
   skills:
     - name: R
@@ -101,7 +101,7 @@ params:
       featuredpoints:
         - point: First-Class Honours
         - point: Undergraduate Project title
-     - company: "HighSchool"
+    - company: "HighSchool"
       # id: "amazon-developer" // use this, when you want to change the id(used for navigation)
       role: "Mathematics and Computer Science, American College London"
       startdate: September 2015
