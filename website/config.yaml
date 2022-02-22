@@ -93,13 +93,6 @@ params:
       role: "Statistical Science, University College London"
       startdate: September 2021 
       enddate: present
-    - company: "High School"
-      # id: "amazon-developer" // use this, when you want to change the id(used for navigation)
-      role: "Mathematics and Computer Science, American College London"
-      startdate: September 2015
-      enddate: June 2018
-      featuredpoints:
-        - point: Diploma of Completed Secondary Education
     - company: "BSc"
       # id: "facebook-developer" // use this, when you want to change the id(used for navigation)
       role: "Statistics, University College London"
@@ -108,6 +101,13 @@ params:
       featuredpoints:
         - point: First-Class Honours
         - point: Undergraduate Project title
+     - company: "HighSchool"
+      # id: "amazon-developer" // use this, when you want to change the id(used for navigation)
+      role: "Mathematics and Computer Science, American College London"
+      startdate: September 2015
+      enddate: June 2018
+      featuredpoints:
+        - point: Diploma of Completed Secondary Education
 
 
   # Teaching
