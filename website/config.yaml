@@ -74,7 +74,7 @@ params:
   # About
   disable_about: false
   descripe_l1_person: "Hi, I'm Ilina, a PhD student at University College London (UCL) (started in September 2021). My research focuses on Bayesian nonparametric methods for causal inference. My first supervisor is Dr. Ioanna Manolopoulou and my second supervisor is François-Xavier Briol."
-  #descripe_l2_person: "This is a example template for about section. You can find my works [here](#projects)"
+  descripe_l2_person: "I am also a Postgraduate Teaching Assistant at UCL tutoring mainly second and third year courses (please see Teaching Section)."
   skills:
     - name: R
       #percentage: 85
@@ -111,7 +111,6 @@ params:
 
   # Teaching
   disable_teaching: false
-  descripe_l2_person: "Hi, I'm Ilina, a PhD student at University College London (UCL). I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
   teaching:
     - degree: "STAT0006"
       branch: "Linear Models and the Analysis of Variance"
