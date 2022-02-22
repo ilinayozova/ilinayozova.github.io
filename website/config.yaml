@@ -73,7 +73,7 @@ params:
   
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Ilina, a PhD student at University College London (UCL). I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+  descripe_l1_person: "Hi, I'm Ilina, a PhD student at University College London (UCL) (started in September 2021). My research focuses on Bayesian nonparametric methods for causal inference. My first supervisor is Dr. Ioanna Manolopoulou and my second supervisor is François-Xavier Briol."
   descripe_l2_person: "This is a example template for about section. You can find my works [here](#projects)"
   skills:
     - name: R
@@ -124,7 +124,7 @@ params:
       university: "UCL - Academic Year 2021-2022"
 
   # Projects
-  disable_projects: false
+  disable_projects: true
   projects:
     - name: "Example project without details"
       img: /images/project.jpg
@@ -133,7 +133,7 @@ params:
       description: "Description of project"
 
   # Achievements
-  disable_achievements: false
+  disable_achievements: true
   achievements:
     - title: Competition winner
       description: We are developed a product which can help others.
