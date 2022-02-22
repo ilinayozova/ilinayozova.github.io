@@ -101,7 +101,7 @@ params:
       featuredpoints:
         - point: First-Class Honours
         - point: Undergraduate Project title
-    - company: "HighSchool"
+    - company: "High School"
       # id: "amazon-developer" // use this, when you want to change the id(used for navigation)
       role: "Mathematics and Computer Science, American College London"
       startdate: September 2015
